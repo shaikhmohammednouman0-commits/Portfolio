@@ -1,85 +1,96 @@
-Mohammed Nouman Shaikh — Portfolio
+# 🌐 Mohammed Nouman Shaikh — Personal Portfolio
 
-A personal portfolio website showcasing my education, skills, projects, and web development learning journey.
+Welcome to my personal portfolio repository! 👋
 
-👨‍💻 About Me
+This portfolio showcases my **education, skills, learning journey, and web development projects**. It is designed to present my profile and technical interests in a simple and professional way.
 
-I am Mohammed Nouman Shaikh, a B.Tech Computer Science & Engineering student at Walchand Institute of Technology (WIT), Solapur.
+## 👨‍💻 About Me
 
-I am interested in web development and currently learning and improving my skills in HTML, CSS, and JavaScript.
+Hi, I'm **Mohammed Nouman Shaikh**, a **B.Tech Computer Science & Engineering student** at **Walchand Institute of Technology (WIT), Solapur**.
 
-🎓 Education
+I am interested in **Web Development** and currently learning and improving my skills in:
 
-B.Tech — Computer Science & Engineering
+- HTML
+- CSS
+- JavaScript
+- Programming
+- Full Stack Web Development
 
+## 🎓 Education
+
+| Qualification | Details |
+|---|---|
+| B.Tech CSE | Walchand Institute of Technology (WIT), Solapur |
+| Duration | 2025 – Present |
+| 12th Standard | Completed in 2025 |
+| 12th Percentage | 77.50% |
+| MHT-CET | 93.94% |
+
+## 🛠️ Skills
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Web Development**
+- **Programming Fundamentals**
+
+## 📚 Learning Journey
+
+### 2025 — Present
+🎓 **B.Tech — Computer Science & Engineering**  
 Walchand Institute of Technology (WIT), Solapur
 
-2025 — Present
+### 2025
+🌐 **HTML, CSS & JavaScript Learning**  
+Started learning web development and building websites using modern web technologies.
 
-12th Standard
+### 2025
+📊 **MHT-CET**  
+Achieved **93.94%** in CET.
 
-Completed in 2025
+### 2025
+🎓 **12th Standard**  
+Completed 12th standard with **77.50%**.
 
-Percentage: 77.50%
+## ✨ Portfolio Features
 
-MHT-CET
+- 👤 Personal introduction
+- 🎓 Education timeline
+- 💻 Technical skills
+- 🌐 Web development learning journey
+- 📂 Projects
+- 📞 Contact section
+- 📱 Responsive design
 
-CET Percentage: 93.94%
+## 🚀 Technologies Used
 
-🌐 Web Development Learning
-
-Started learning:
-
-HTML
-
-CSS
-
-JavaScript
-
-These technologies are being used to build responsive and interactive web pages.
-
-🛠️ Skills
-
+```text
 HTML5
-
-CSS
-
+CSS3
 JavaScript
-
-Web Development
-
-Basic Programming
-
-📁 Project
-
-This repository contains my personal portfolio website built using web technologies.
-
-🚀 How to Run
-
-Download or clone this repository.
-
+📂 Project Structure
+Portfolio/
+│
+├── index.html
+├── README.md
+└── assets/
+    ├── images/
+    └── other resources/
+💻 How to Run
+Clone or download this repository.
 Open the project folder.
+Open index.html in your web browser.
+The portfolio will run directly in the browser.
+🎯 Future Goals
 
-Open the HTML file in any modern web browser.
+I plan to continue improving my skills in:
 
-No server setup is required for the basic portfolio page.
-
-📌 Portfolio
-
-The portfolio includes sections for:
-
-About Me
-
-Skills
-
-Education
-
-Experience / Learning Timeline
-
-Projects
-
-Contact information
-
+Advanced JavaScript
+React.js
+Node.js
+Express.js
+MongoDB
+Full Stack Web Development
+Building real-world projects
 👤 Author
-
 Mohammed Nouman Shaikh
