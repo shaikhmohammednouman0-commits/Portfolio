@@ -61,36 +61,60 @@ Completed 12th standard with **77.50%**.
 - 📂 Projects
 - 📞 Contact section
 - 📱 Responsive design
+## 🛠️ Technologies Used
 
-## 🚀 Technologies Used
+This portfolio website is developed using:
+
+* **HTML5** – For creating the structure and content of the website.
+* **CSS3** – For styling, layout, responsiveness, and visual design.
+* **JavaScript** – For adding interactivity and dynamic functionality.
+
+## 📂 Project Structure
 
 ```text
-HTML5
-CSS3
-JavaScript
-📂 Project Structure
 Portfolio/
 │
 ├── index.html
 ├── README.md
+│
 └── assets/
     ├── images/
-    └── other resources/
-💻 How to Run
-Clone or download this repository.
-Open the project folder.
-Open index.html in your web browser.
-The portfolio will run directly in the browser.
-🎯 Future Goals
+    └── other-resources/
+```
 
-I plan to continue improving my skills in:
+### 📄 File Description
 
-Advanced JavaScript
-React.js
-Node.js
-Express.js
-MongoDB
-Full Stack Web Development
-Building real-world projects
-👤 Author
-Mohammed Nouman Shaikh
+* `index.html` – Main HTML file containing the portfolio website.
+* `README.md` – Project documentation.
+* `assets/images/` – Contains images used in the portfolio.
+* `assets/other-resources/` – Contains other required project resources.
+
+## 💻 How to Run
+
+Follow these simple steps to run the portfolio:
+
+1. **Clone or download** this repository.
+2. Open the downloaded **Portfolio** folder.
+3. Locate the `index.html` file.
+4. Double-click `index.html` or open it using any modern web browser.
+5. The portfolio website will open directly in your browser.
+
+> No additional server or installation is required to run the basic portfolio.
+
+## 🎯 Future Goals
+
+I plan to continuously improve my web development skills and work on more real-world projects.
+
+My future learning goals include:
+
+* 📚 Advanced JavaScript
+* ⚛️ React.js
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+* 🌐 Full Stack Web Development
+* 💡 Building real-world projects
+
+## 👤 Author
+
+**Mohammed Nouman Shaikh**
